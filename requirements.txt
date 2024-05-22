@@ -1,3 +1,3 @@
 streamlit
 streamlit-tags
-openai
+openai_key = sk-proj-8Bd8u627TarCyxzjHOr2T3BlbkFJsyepJsZx5gxwE779HuoQ
