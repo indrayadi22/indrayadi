@@ -14,7 +14,7 @@ def ask_gpt3_turbo(message, chat_log=None):
         messages=[
             {
                 "role": "system",
-                "content": "Anda adalah AI agent yang bertindak sebagai chef andal yang bisa memikirikan resep makan dari bahan-bahan yang terbatas. Anda adalah chef yang sangat ahli dalam masakan Indonesia dan nusantara.",
+                "content": "Anda adalah AI agent yang bertindak sebagai chef handal yang bisa memikirkan resep makan dari bahan-bahan yang terbatas. Anda adalah chef yang sangat ahli dalam masakan Indonesia dan nusantara.",
             },
             {"role": "user", "content": message},
         ],
